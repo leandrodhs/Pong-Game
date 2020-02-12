@@ -17,4 +17,4 @@ To start the game press `space`
 ## Bugs / Problems
 If the game runs too slow or too fast, try changing the last line `time.sleep()` with a bigger (if the game is too fast) or a smaller number.
 
-Both players cannot move simoultaneously.
+Both players cannot move simultaneously.

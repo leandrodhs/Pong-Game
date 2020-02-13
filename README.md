@@ -1,4 +1,6 @@
 # Pong Game
+![Game preview](pong.png)
+
 ## Requirements:
 Your may need to install or setup `TKinter` and `Python`, this game uses python's `turtle` module.
 
